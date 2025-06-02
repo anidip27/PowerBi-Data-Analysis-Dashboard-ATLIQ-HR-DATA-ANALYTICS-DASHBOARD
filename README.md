@@ -11,8 +11,9 @@ OBJECTIVE : HR of ATLIQ wants me to help them create a dashboard to track and an
 - make a list of all the employees showing their percentage of office presence, WFH, SL
 - make a list of all days of the week showing percentage of office presence, WFH, SL
 
-## Dataset Used 
+## Dataset Used :
 
+https://github.com/anidip27/PowerBi-Data-Analysis-Dashboard-ATLIQ-HR-DATA-ANALYTICS-DASHBOARD/blob/main/Attendance%20Sheet%202022-2023_Masked.xlsx
 
 ## Process 
 
@@ -24,7 +25,11 @@ created stack chart and graphs according to questions asked.
 
 merge all data tables into one dashboard and apply slicer to make dynamic.
 
- ## Dashboard Interaction 
+ ## Dashboard Interaction :
+
+https://github.com/anidip27/PowerBi-Data-Analysis-Dashboard-ATLIQ-HR-DATA-ANALYTICS-DASHBOARD/blob/main/ATLIQ%20HR%20ANALYTICS%201.pbix
+
+file:///G:/System%20Folder/New%20folder/ATLIQ%20HR%20ANALYTICS%201.pdf
 
 
 ## POWER BI :
