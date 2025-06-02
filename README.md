@@ -29,7 +29,8 @@ merge all data tables into one dashboard and apply slicer to make dynamic.
 
 https://github.com/anidip27/PowerBi-Data-Analysis-Dashboard-ATLIQ-HR-DATA-ANALYTICS-DASHBOARD/blob/main/ATLIQ%20HR%20ANALYTICS%201.pbix
 
-file:///G:/System%20Folder/New%20folder/ATLIQ%20HR%20ANALYTICS%201.pdf
+![ATLIQ HR ANALYTICS 1_page-0001 (2)](https://github.com/user-attachments/assets/e8df5b07-a675-4879-aabd-a4fccd543c3b)
+
 
 
 ## POWER BI :
